@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3v3 Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Member From Class: ClassName=di2_motor Member=C17

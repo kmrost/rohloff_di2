@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=R1-1
+Removed Member From Class: ClassName=di2_motor Member=R1
+Added Pin To Net: NetName=NetC2_2 Pin=D1-4
+Added Pin To Net: NetName=NetC2_2 Pin=R2-1

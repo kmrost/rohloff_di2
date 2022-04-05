@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetD4_4 Pin=R10-1
+Change Component Footprint: Designator=R9 Old Footprint=R2512 New Footprint=R_1206
+Change Component Footprint: Designator=R10 Old Footprint=R2512 New Footprint=R_1206
+Change Component Designator: OldDesignator=X6 NewDesignator=X4
+Added Component: Designator=R11(R_1206)
+Added Component: Designator=R12(R_1206)
+Added Component: Designator=R13(R_1206)
+Added Component: Designator=R14(R_1206)
+Added Component: Designator=R15(R_1206)
+Added Component: Designator=R16(R_1206)
+Added Pin To Net: NetName=NetD4_9 Pin=R10-1
+Added Pin To Net: NetName=NetD4_9 Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=NetD4_9 Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=NetD4_4 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=NetD4_4 Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=NetD4_4 Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=NetD4_4 Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Member To Class: ClassName=di2_motor Member=Component R11 0R33
+Added Member To Class: ClassName=di2_motor Member=Component R12 0R33
+Added Member To Class: ClassName=di2_motor Member=Component R13 0R33
+Added Member To Class: ClassName=di2_motor Member=Component R14 0R33
+Added Member To Class: ClassName=di2_motor Member=Component R15 0R33
+Added Member To Class: ClassName=di2_motor Member=Component R16 0R33

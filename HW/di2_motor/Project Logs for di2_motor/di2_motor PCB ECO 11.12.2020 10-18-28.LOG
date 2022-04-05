@@ -1,0 +1,7 @@
+Added Component: Designator=VD1(SOT23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Price"; Value = "0.08"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=VD1-1
+Added Pin To Net: NetName=NetC3_1 Pin=VD1-2
+Added Pin To Net: NetName=NetC1_2 Pin=VD1-3
+Added Member To Class: ClassName=di2_motor Member=Component VD1 BAS70-04

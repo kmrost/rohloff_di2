@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VIN Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Member From Class: ClassName=di2_motor Member=C13
+Added Member To Class: ClassName=di2_motor Member=Component R17 0R33

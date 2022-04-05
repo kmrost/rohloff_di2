@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=M4 Pin=U1-11
+Removed Pin From Net: NetName=M1 Pin=U1-12
+Removed Pin From Net: NetName=M2 Pin=U1-13
+Added Pin To Net: NetName=M4 Pin=U1-10
+Added Pin To Net: NetName=M1 Pin=U1-11
+Added Pin To Net: NetName=M2 Pin=U1-12
+Added Pin To Net: NetName=REFPWM Pin=U1-13

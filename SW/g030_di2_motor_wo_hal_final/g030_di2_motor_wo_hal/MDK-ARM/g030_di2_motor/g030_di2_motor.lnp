@@ -1,0 +1,8 @@
+--cpu Cortex-M0+
+"g030_di2_motor\system_stm32g0xx.o"
+"g030_di2_motor\startup_stm32g030xx.o"
+"g030_di2_motor\main.o"
+--library_type=microlib --strict --scatter "g030_di2_motor\g030_di2_motor.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "g030_di2_motor.map" -o g030_di2_motor\g030_di2_motor.axf

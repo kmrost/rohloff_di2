@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=H_A Pin=D5-12
+Removed Pin From Net: NetName=H_C Pin=D5-14
+Change Component Footprint: Designator=R8 Old Footprint=R0402 New Footprint=R0603
+Change Component Footprint: Designator=R9 Old Footprint=R0402 New Footprint=R0603
+Added Pin To Net: NetName=H_C Pin=D5-12
+Added Pin To Net: NetName=H_A Pin=D5-14

@@ -1,0 +1,19 @@
+Added Component: Designator=D4(VFQFPN16L)
+Added Pin To Net: NetName=M4 Pin=D4-1
+Added Pin To Net: NetName=M3 Pin=D4-2
+Added Pin To Net: NetName=A1 Pin=D4-3
+Added Pin To Net: NetName=NetD4_4 Pin=D4-4
+Added Pin To Net: NetName=A2 Pin=D4-5
+Added Pin To Net: NetName=VIN Pin=D4-6
+Added Pin To Net: NetName=GND Pin=D4-7
+Added Pin To Net: NetName=B2 Pin=D4-8
+Added Pin To Net: NetName=NetD4_9 Pin=D4-9
+Added Pin To Net: NetName=B1 Pin=D4-10
+Added Pin To Net: NetName=NetC16_1 Pin=D4-11
+Added Pin To Net: NetName=NetD4_12 Pin=D4-12
+Added Pin To Net: NetName=EN Pin=D4-13
+Added Pin To Net: NetName=SB Pin=D4-14
+Added Pin To Net: NetName=M2 Pin=D4-15
+Added Pin To Net: NetName=M1 Pin=D4-16
+Added Pin To Net: NetName=GND Pin=D4-17
+Added Member To Class: ClassName=di2_motor Member=Component D4 STSPIN220

@@ -1,0 +1,21 @@
+Added Component: Designator=R16(R1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82K"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82K"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD4_9 Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=NetD4_4 Pin=R17-2
+Added Pin To Net: NetName=NetD4_8 Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Member To Class: ClassName=di2_motor Member=Component R16 0R33
+Added Member To Class: ClassName=di2_motor Member=Component R17 0R33
+Added Member To Class: ClassName=di2_motor Member=Component R18 0R33

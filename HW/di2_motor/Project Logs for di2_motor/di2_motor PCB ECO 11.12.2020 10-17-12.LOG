@@ -1,0 +1,126 @@
+Added Component: Designator=C1(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C11(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C13(C0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOT23-5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(SOT23-6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VOUT Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=VOUT Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VIN Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=3v3 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=3v3 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=3v3 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=3v3 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=VIN Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=RX Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D1-3
+Added Pin To Net: NetName=NetD1_4 Pin=D1-4
+Added Pin To Net: NetName=3v3 Pin=D1-5
+Added Pin To Net: NetName=NetC3_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=NetC5_1 Pin=D2-3
+Added Pin To Net: NetName=NetD1_2 Pin=D2-4
+Added Pin To Net: NetName=3v3 Pin=D2-5
+Added Pin To Net: NetName=TX Pin=D2-6
+Added Pin To Net: NetName=NetC2_2 Pin=R1-1
+Added Pin To Net: NetName=NetD1_4 Pin=R1-2
+Added Pin To Net: NetName=NetD1_4 Pin=R2-1
+Added Pin To Net: NetName=NetC5_1 Pin=R2-2
+Added Pin To Net: NetName=NetC3_1 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=H_A Pin=R7-1
+Added Pin To Net: NetName=3v3_Hall Pin=R7-2
+Added Pin To Net: NetName=H_B Pin=R8-1
+Added Pin To Net: NetName=3v3_Hall Pin=R8-2
+Added Pin To Net: NetName=H_C Pin=R9-1
+Added Pin To Net: NetName=3v3_Hall Pin=R9-2
+Added Member To Class: ClassName=di2_motor Member=Component C1 1.5nF
+Added Member To Class: ClassName=di2_motor Member=Component C2 1.5nF
+Added Member To Class: ClassName=di2_motor Member=Component C3 1.5nF
+Added Member To Class: ClassName=di2_motor Member=Component C5 1.5nF
+Added Member To Class: ClassName=di2_motor Member=Component C7 0.1uF
+Added Member To Class: ClassName=di2_motor Member=Component C8 0.1uF
+Added Member To Class: ClassName=di2_motor Member=Component C10 0.1uF
+Added Member To Class: ClassName=di2_motor Member=Component C11 0.1uF
+Added Member To Class: ClassName=di2_motor Member=Component C12 0.1uF
+Added Member To Class: ClassName=di2_motor Member=Component C13 0.1uF
+Added Member To Class: ClassName=di2_motor Member=Component D1 1G126
+Added Member To Class: ClassName=di2_motor Member=Component D2 G14
+Added Member To Class: ClassName=di2_motor Member=Component R1 10k
+Added Member To Class: ClassName=di2_motor Member=Component R2 10k
+Added Member To Class: ClassName=di2_motor Member=Component R3 10k
+Added Member To Class: ClassName=di2_motor Member=Component R7 4,7k
+Added Member To Class: ClassName=di2_motor Member=Component R8 4,7k
+Added Member To Class: ClassName=di2_motor Member=Component R9 4,7k

@@ -1,0 +1,21 @@
+Added Component: Designator=D4(VFQFPN16L)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=InU Pin=D4-1
+Added Pin To Net: NetName=EnU Pin=D4-2
+Added Pin To Net: NetName=OutU Pin=D4-3
+Added Pin To Net: NetName=NetD4_4 Pin=D4-4
+Added Pin To Net: NetName=VIN Pin=D4-5
+Added Pin To Net: NetName=GND Pin=D4-6
+Added Pin To Net: NetName=OutV Pin=D4-7
+Added Pin To Net: NetName=NetD4_8 Pin=D4-8
+Added Pin To Net: NetName=NetD4_9 Pin=D4-9
+Added Pin To Net: NetName=OutW Pin=D4-10
+Added Pin To Net: NetName=InW Pin=D4-11
+Added Pin To Net: NetName=EnW Pin=D4-12
+Added Pin To Net: NetName=EN Pin=D4-13
+Added Pin To Net: NetName=Stb Pin=D4-14
+Added Pin To Net: NetName=InV Pin=D4-15
+Added Pin To Net: NetName=EnV Pin=D4-16
+Added Pin To Net: NetName=GND Pin=D4-17
+Added Member To Class: ClassName=di2_motor Member=Component C14 1uF
+Added Member To Class: ClassName=di2_motor Member=Component D4 STSPIN233

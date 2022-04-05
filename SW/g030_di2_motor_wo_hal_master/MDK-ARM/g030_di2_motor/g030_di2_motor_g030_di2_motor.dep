@@ -1,0 +1,24 @@
+Dependencies for Project 'g030_di2_motor', Target 'g030_di2_motor': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::.\ARMCC
+F (../Core/Src/system_stm32g0xx.c)(0x5F47B6A8)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Core/Inc-I.\RTE\_g030_di2_motor-IC:\Users\Cujo\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Cujo\AppData\Local\Arm\Packs\Keil\STM32G0xx_DFP\1.2.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include-D__UVISION_VERSION="531" -D_RTE_ -DSTM32G030xx -D_RTE_ -DSTM32G030xx-o g030_di2_motor\system_stm32g0xx.o --omf_browse g030_di2_motor\system_stm32g0xx.crf --depend g030_di2_motor\system_stm32g0xx.d)
+I (C:\Users\Cujo\AppData\Local\Arm\Packs\Keil\STM32G0xx_DFP\1.2.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include\stm32g0xx.h)(0x5D314F88)
+I (C:\Users\Cujo\AppData\Local\Arm\Packs\Keil\STM32G0xx_DFP\1.2.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include\stm32g030xx.h)(0x5D314F88)
+I (C:\Users\Cujo\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8F1772)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC7BC4C)
+I (C:\Users\Cujo\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Cujo\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Cujo\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Cujo\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (C:\Users\Cujo\AppData\Local\Arm\Packs\Keil\STM32G0xx_DFP\1.2.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include\system_stm32g0xx.h)(0x5D314F88)
+F (startup_stm32g030xx.s)(0x6030FD3E)(--cpu Cortex-M0+ -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_g030_di2_motor-IC:\Users\Cujo\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Cujo\AppData\Local\Arm\Packs\Keil\STM32G0xx_DFP\1.2.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include--pd "__UVISION_VERSION SETA 531" --pd "_RTE_ SETA 1" --pd "STM32G030xx SETA 1" --pd "_RTE_ SETA 1"--list startup_stm32g030xx.lst --xref -o g030_di2_motor\startup_stm32g030xx.o --depend g030_di2_motor\startup_stm32g030xx.d)
+F (../Core/Src/main.c)(0x605B6089)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Core/Inc-I.\RTE\_g030_di2_motor-IC:\Users\Cujo\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Cujo\AppData\Local\Arm\Packs\Keil\STM32G0xx_DFP\1.2.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include-D__UVISION_VERSION="531" -D_RTE_ -DSTM32G030xx -D_RTE_ -DSTM32G030xx-o g030_di2_motor\main.o --omf_browse g030_di2_motor\main.crf --depend g030_di2_motor\main.d)
+I (../Core/Inc/main.h)(0x605B6091)
+I (C:\Users\Cujo\AppData\Local\Arm\Packs\Keil\STM32G0xx_DFP\1.2.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include\stm32g0xx.h)(0x5D314F88)
+I (C:\Users\Cujo\AppData\Local\Arm\Packs\Keil\STM32G0xx_DFP\1.2.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include\stm32g030xx.h)(0x5D314F88)
+I (C:\Users\Cujo\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0plus.h)(0x5E8F1772)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC7BC4C)
+I (C:\Users\Cujo\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Cujo\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Cujo\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Cujo\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (C:\Users\Cujo\AppData\Local\Arm\Packs\Keil\STM32G0xx_DFP\1.2.0\Drivers\CMSIS\Device\ST\STM32G0xx\Include\system_stm32g0xx.h)(0x5D314F88)
